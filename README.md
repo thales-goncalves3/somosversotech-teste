@@ -1,16 +1,7 @@
 # somosversotech
 
-A new Flutter project.
+Teste de Flutter para desenvolvedor júnior - Pokémon API
 
-## Getting Started
+## Como utilizar
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No aplicativo será mostrado uma lista de pokemons, nessa lista você poderá clicar em um card e no click será mostrado mais informações sobre o pokemon escolhido.
